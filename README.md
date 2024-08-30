@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=SpringProfessional - Dev Superior&message=Login e Controle de Acesso&color=8257E5&labelColor=000000" alt="Testes automatizados na prática com Spring Boot" />
+  <img src="https://img.shields.io/static/v1?label=SpringProfessional - Dev Superior&message=Homologacao e Implantacão CI/CD&color=8257E5&labelColor=000000" alt="Testes automatizados na prática com Spring Boot" />
 </p>
 
 # Tópicos
